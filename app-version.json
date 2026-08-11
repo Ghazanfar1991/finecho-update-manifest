@@ -2,14 +2,14 @@
   "android": {
     "latestVersion": "1.0.3",
     "minimumVersion": "1.0.3",
-    "latestBuildVersion": 30,
-    "minimumBuildVersion": 30,
+    "latestBuildVersion": 31,
+    "minimumBuildVersion": 31,
     "storeUrl": "https://play.google.com/store/apps/details?id=com.finecho.app"
   },
   "ios": {
     "latestVersion": "1.0.3",
     "minimumVersion": "1.0.3",
-    "latestBuildVersion": 26,
-    "minimumBuildVersion": 26
+    "latestBuildVersion": 27,
+    "minimumBuildVersion": 27
   }
 }
