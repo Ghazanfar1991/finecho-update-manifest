@@ -2,5 +2,7 @@
 
 Public, machine-readable store version metadata used by the FinEcho mobile app.
 
-The Android version and build values should be updated when a new Google Play
-release becomes available to testers or production users.
+The Android and iOS version/build values should be updated only after the
+corresponding Google Play or App Store release is available to its intended
+audience. Add the platform's `storeUrl` when advancing a release if the app is
+not yet publicly discoverable through the store's lookup service.

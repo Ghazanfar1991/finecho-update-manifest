@@ -7,6 +7,9 @@
     "storeUrl": "https://play.google.com/store/apps/details?id=com.finecho.app"
   },
   "ios": {
-    "latestVersion": "0.0.0"
+    "latestVersion": "1.0.2",
+    "minimumVersion": "1.0.2",
+    "latestBuildVersion": 26,
+    "minimumBuildVersion": 26
   }
 }
